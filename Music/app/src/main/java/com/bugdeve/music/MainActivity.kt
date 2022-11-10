@@ -4,14 +4,18 @@ import android.os.Bundle
 import android.util.Log
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
+import androidx.compose.foundation.Image
 import androidx.compose.foundation.layout.Arrangement
+import androidx.compose.foundation.layout.Box
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.material.*
 import androidx.compose.runtime.*
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
+import androidx.compose.ui.layout.ContentScale
 import androidx.compose.ui.layout.VerticalAlignmentLine
+import androidx.compose.ui.res.painterResource
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.navigation.NavController
 import androidx.navigation.compose.NavHost
@@ -38,8 +42,19 @@ class MainActivity : ComponentActivity() {
 
 @Composable
 fun Login(navController: NavController){
-    var username by remember (){
+    var username by remember {
         mutableStateOf("")
+    }
+    var password by remember {
+        mutableStateOf("")
+    }
+    Box(modifier = Modifier.fillMaxSize()){
+        Image(
+            painter = painterResource(id = R.drawable.bg),
+            contentDescription = null,
+            contentScale = ContentScale.FillHeight,
+            modifier = Modifier.fillMaxSize()
+            )
     }
     Column(
         modifier = Modifier.fillMaxSize(),
@@ -47,7 +62,7 @@ fun Login(navController: NavController){
         horizontalAlignment = Alignment.CenterHorizontally
     ) {
         TextField(value = username, onValueChange = {username=it})
-
+        TextField(value = password, onValueChange = {password=it})
         Button(onClick = {
             navController.navigate("App")
         }) {
@@ -72,6 +87,6 @@ fun App(navController: NavController){
 @Composable
 fun DefaultPreview() {
     MusicTheme {
-
+        Login(navController = rememberNavController())
     }
 }
