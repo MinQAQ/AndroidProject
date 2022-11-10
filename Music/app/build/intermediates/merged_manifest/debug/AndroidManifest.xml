@@ -18,12 +18,11 @@
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
-        android:theme="@style/Theme.Music" >
+        android:theme="@style/Theme.AppCompat.DayNight" >
         <activity
-            android:name="com.bugdeve.music.MainActivity"
+            android:name="com.bugdeve.music.SplashActivity"
             android:exported="true"
-            android:label="@string/app_name"
-            android:theme="@style/Theme.Music" >
+            android:theme="@style/Splah" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -35,16 +34,32 @@
                 android:value="" />
         </activity>
         <activity
+            android:name="com.bugdeve.music.MainActivity"
+            android:exported="true"
+            android:label="MainActivity"
+            android:theme="@style/Theme.AppCompat.DayNight" >
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
+        <activity
             android:name="androidx.compose.ui.tooling.PreviewActivity"
             android:exported="true" />
         <activity
             android:name="androidx.activity.ComponentActivity"
             android:exported="true" />
+        <activity android:name="androidx.core.splashscreen.test.SplashScreenAppCompatTestActivity" />
 
         <provider
             android:name="androidx.startup.InitializationProvider"
             android:authorities="com.bugdeve.music.androidx-startup"
             android:exported="false" >
+            <meta-data
+                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+                android:value="androidx.startup" />
+            <meta-data
+                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+                android:value="androidx.startup" />
             <meta-data
                 android:name="androidx.profileinstaller.ProfileInstallerInitializer"
                 android:value="androidx.startup" />

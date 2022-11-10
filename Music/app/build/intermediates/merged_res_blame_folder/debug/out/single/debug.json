@@ -1,70 +1,82 @@
 [
     {
-        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.4\\com.bugdeve.music.app-merged_res-5:\\mipmap-xhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.4\\com.bugdeve.music.app-main-7:\\mipmap-xhdpi\\ic_launcher.webp"
+        "merged": "com.bugdeve.music.app-merged_res-5:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.bugdeve.music.app-main-7:/mipmap-hdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.4\\com.bugdeve.music.app-merged_res-5:\\mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.4\\com.bugdeve.music.app-main-7:\\mipmap-xxhdpi\\ic_launcher.webp"
+        "merged": "com.bugdeve.music.app-merged_res-5:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.bugdeve.music.app-main-7:/mipmap-xhdpi/ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.4\\com.bugdeve.music.app-merged_res-5:\\xml_backup_rules.xml.flat",
-        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.4\\com.bugdeve.music.app-main-7:\\xml\\backup_rules.xml"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.4\\com.bugdeve.music.app-merged_res-5:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.4\\com.bugdeve.music.app-main-7:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+        "merged": "com.bugdeve.music.app-merged_res-5:/xml_data_extraction_rules.xml.flat",
+        "source": "com.bugdeve.music.app-main-7:/xml/data_extraction_rules.xml"
     },
     {
         "merged": "com.bugdeve.music.app-merged_res-5:/drawable_bg.jpg.flat",
         "source": "com.bugdeve.music.app-main-7:/drawable/bg.jpg"
     },
     {
-        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.4\\com.bugdeve.music.app-merged_res-5:\\xml_data_extraction_rules.xml.flat",
-        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.4\\com.bugdeve.music.app-main-7:\\xml\\data_extraction_rules.xml"
+        "merged": "com.bugdeve.music.app-merged_res-5:/xml_backup_rules.xml.flat",
+        "source": "com.bugdeve.music.app-main-7:/xml/backup_rules.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.4\\com.bugdeve.music.app-merged_res-5:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.4\\com.bugdeve.music.app-main-7:\\mipmap-anydpi-v26\\ic_launcher.xml"
+        "merged": "com.bugdeve.music.app-merged_res-5:/layout_sample_my_view.xml.flat",
+        "source": "com.bugdeve.music.app-main-7:/layout/sample_my_view.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.4\\com.bugdeve.music.app-merged_res-5:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.4\\com.bugdeve.music.app-main-7:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+        "merged": "com.bugdeve.music.app-merged_res-5:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.bugdeve.music.app-main-7:/mipmap-mdpi/ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.4\\com.bugdeve.music.app-merged_res-5:\\mipmap-mdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.4\\com.bugdeve.music.app-main-7:\\mipmap-mdpi\\ic_launcher_round.webp"
+        "merged": "com.bugdeve.music.app-merged_res-5:/layout_activity_splash.xml.flat",
+        "source": "com.bugdeve.music.app-main-7:/layout/activity_splash.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.4\\com.bugdeve.music.app-merged_res-5:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.4\\com.bugdeve.music.app-main-7:\\mipmap-xxxhdpi\\ic_launcher.webp"
+        "merged": "com.bugdeve.music.app-merged_res-5:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.bugdeve.music.app-main-7:/drawable/ic_launcher_background.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.4\\com.bugdeve.music.app-merged_res-5:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.4\\com.bugdeve.music.app-main-7:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+        "merged": "com.bugdeve.music.app-merged_res-5:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.bugdeve.music.app-main-7:/mipmap-xxxhdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.4\\com.bugdeve.music.app-merged_res-5:\\drawable-v24_ic_launcher_foreground.xml.flat",
-        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.4\\com.bugdeve.music.app-main-7:\\drawable-v24\\ic_launcher_foreground.xml"
+        "merged": "com.bugdeve.music.app-merged_res-5:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.bugdeve.music.app-main-7:/mipmap-anydpi-v26/ic_launcher.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.4\\com.bugdeve.music.app-merged_res-5:\\mipmap-hdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.4\\com.bugdeve.music.app-main-7:\\mipmap-hdpi\\ic_launcher.webp"
+        "merged": "com.bugdeve.music.app-merged_res-5:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.bugdeve.music.app-main-7:/drawable-v24/ic_launcher_foreground.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.4\\com.bugdeve.music.app-merged_res-5:\\mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.4\\com.bugdeve.music.app-main-7:\\mipmap-mdpi\\ic_launcher.webp"
+        "merged": "com.bugdeve.music.app-merged_res-5:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.bugdeve.music.app-main-7:/mipmap-xxhdpi/ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.4\\com.bugdeve.music.app-merged_res-5:\\mipmap-hdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.4\\com.bugdeve.music.app-main-7:\\mipmap-hdpi\\ic_launcher_round.webp"
+        "merged": "com.bugdeve.music.app-merged_res-5:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.bugdeve.music.app-main-7:/mipmap-mdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.4\\com.bugdeve.music.app-merged_res-5:\\drawable_ic_launcher_background.xml.flat",
-        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.4\\com.bugdeve.music.app-main-7:\\drawable\\ic_launcher_background.xml"
+        "merged": "com.bugdeve.music.app-merged_res-5:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.bugdeve.music.app-main-7:/mipmap-xhdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.4\\com.bugdeve.music.app-merged_res-5:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.4\\com.bugdeve.music.app-main-7:\\mipmap-xhdpi\\ic_launcher_round.webp"
+        "merged": "com.bugdeve.music.app-merged_res-5:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.bugdeve.music.app-main-7:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.bugdeve.music.app-merged_res-5:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.bugdeve.music.app-main-7:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.bugdeve.music.app-merged_res-5:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.bugdeve.music.app-main-7:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.bugdeve.music.app-merged_res-5:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.bugdeve.music.app-main-7:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.bugdeve.music.app-merged_res-5:/xml_splash_background.xml.flat",
+        "source": "com.bugdeve.music.app-main-7:/xml/splash_background.xml"
     }
 ]
