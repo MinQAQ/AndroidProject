@@ -15,7 +15,7 @@
 12        android:allowBackup="true"
 12-->C:\AndroidProject\Music\app\src\main\AndroidManifest.xml:6:9-35
 13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-13-->[androidx.core:core:1.7.0] C:\Users\Administrator\.gradle\caches\transforms-3\2157ea49cdc3c5b2f06f3fe4a50dab4f\transformed\core-1.7.0\AndroidManifest.xml:24:18-86
+13-->[androidx.core:core:1.8.0] C:\Users\Administrator\.gradle\caches\transforms-3\f6a12936ecbbfb86057ffa1eb980a294\transformed\core-1.8.0\AndroidManifest.xml:24:18-86
 14        android:dataExtractionRules="@xml/data_extraction_rules"
 14-->C:\AndroidProject\Music\app\src\main\AndroidManifest.xml:7:9-65
 15        android:debuggable="true"
